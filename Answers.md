@@ -18,3 +18,17 @@ Info.plist : Paramètre de l'app (nom, etc...)
 
 - Les assets
 Toutes les ressources utiles à notre application telles que les images, les médias, les icons, les fonts...
+
+## Exercice 2
+### Des raccourcis
+- A quoi sert le raccourci Cmd + R ?
+Il sert a relancer le build de l'application
+
+- A quoi sert le raccourci Cmd + Shift + O ?
+Il sert à ouvrir un fichier en cherchant son nom (pratique sur des projets qui deviennent volumineux)
+
+- Le raccourci pour indenter le code ?
+le raccourci est ctrl+i (de préférence il vaut mieux selectionner tout le texte avant, donc faire cmd+a)
+
+- Le raccourci pounr commenter la sélecttion ?
+Le raccourci est cmd+/
