@@ -1,6 +1,6 @@
 # Réponses
 
-## 1-Environnement
+# 1-Environnement
 ## Exercice 1
 ### Structure d'un projet iOS
 
@@ -32,3 +32,12 @@ le raccourci est ctrl+i (de préférence il vaut mieux selectionner tout le text
 
 - Le raccourci pounr commenter la sélecttion ?
 Le raccourci est cmd+/
+
+# 3 - Delegation
+## Exercice 1
+- L'intérêt d'une variable statique en prog ?
+ici la variable statiqueest intéressante car elle nous permet d'avoir les mêmes fausse données partout ou nous allons appeler notre struct
+
+## Exercice 2
+- Expliquer pourquoi dequeueReusableCell est important pour les performances de l’application.
+Il est important car il permet d'alléger la mémoire. La fonction permet à la vue de ne générer qu'un certain nombre de cellules, qui lorsqu'elles sortent de la vue perdent leurs données et sont ensuite transportées de l'autre côté pour être ré-employés et re-remplies avec de nouvelles informations.
