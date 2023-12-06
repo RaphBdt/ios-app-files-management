@@ -1,6 +1,8 @@
 # Réponses
 
-## Structure d'un projet iOS
+## 1-Environnement
+## Exercice 1
+### Structure d'un projet iOS
 
 - Les targets
 Il s'agit d'un ensemble de configurations (cible de compilation, point d'entrée) qui répond à une cible précise. Exemple : on pourrait avoir un target pour WatchOS, Siri...
