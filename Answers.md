@@ -41,3 +41,11 @@ ici la variable statiqueest intéressante car elle nous permet d'avoir les même
 ## Exercice 2
 - Expliquer pourquoi dequeueReusableCell est important pour les performances de l’application.
 Il est important car il permet d'alléger la mémoire. La fonction permet à la vue de ne générer qu'un certain nombre de cellules, qui lorsqu'elles sortent de la vue perdent leurs données et sont ensuite transportées de l'autre côté pour être ré-employés et re-remplies avec de nouvelles informations.
+
+# 4 - Navigation
+## Exercice 1
+- Que venont nous de faire en réalité ? Quel est le rôle du NavigationController ?
+Gérer une pile qui peut contenir plusieurs ViewControllers, mais n'en afficher qu'un seul à l'écran
+
+- Est-ce que la NavigationBar est la même chose que le NavigationController ?
+La NavigationBar est un élément de l'interface qui permet de naviguer entre les pages au clique.
