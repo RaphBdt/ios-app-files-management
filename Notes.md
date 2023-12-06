@@ -20,3 +20,7 @@ Il y a donc 3 composants pour implémenter TableView :
 Il faut taper la commande `CMD + Shift + L` et il faut le glisser dans la vue principalen de l'application. 
 
 ***On peut supprimer la View Controller par défaut***
+
+## Création de la structure des documents
+
+Nous créons une structure pour pouvoir la réemployer plus tard. Elle est utile pour pouvoir avoir le même format partout quand on en a besoin. 
