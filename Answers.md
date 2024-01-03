@@ -49,3 +49,12 @@ Gérer une pile qui peut contenir plusieurs ViewControllers, mais n'en afficher 
 
 - Est-ce que la NavigationBar est la même chose que le NavigationController ?
 La NavigationBar est un élément de l'interface qui permet de naviguer entre les pages au clique.
+
+# 6 - Ecran Détail
+## Exercice 1
+- Expliquer ce qu’est un Segue et à quoi il sert.
+  un Segue est une transition entre deux vues, un Segue définit le lien entre le View Controller source (d'où la transition commence) et le View Controller de destination (où la transition aboutit).
+
+## Exercice 2
+- Qu’est-ce qu’une constraint ? A quoi sert-elle ? Quel est le lien avec AutoLayout ?
+ une règle qui définit comment un élément se place et se comporte dans une interface. AutoLayout est un mécanisme de disposition automatique qui permet de créer des interfaces utilisateur flexibles et adaptables à différentes tailles d'écran et orientations.
